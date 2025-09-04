@@ -151,11 +151,7 @@ Contributions are welcomed! Feel free to submit a Pull Request. For major change
 ## 🔮 Future Enhancements
 
 - [ ] Multi-language support
-- [ ] Cloud storage integration
 - [ ] Mobile app companion
-- [ ] Advanced speaker diarization
-- [ ] Custom vocabulary support
-- [ ] Integration with popular meeting platforms
 
 ---
 
